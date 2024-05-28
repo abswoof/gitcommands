@@ -28,3 +28,4 @@ graph_coloring(graph,0,colors,color_nodes)
 
 for node,color in color_nodes.items():
     print(f"{node}:{color}")
+    print('changed by git')
